@@ -1,2 +1,2 @@
 # lolstuff
-just for fun
+Fun stuff created for fun
